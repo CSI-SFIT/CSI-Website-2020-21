@@ -1,0 +1,69 @@
+/*Loader	*/
+
+.no-js #loader { display: none;  }
+.js #loader { display: block; position: absolute; left: 100px; top: 0; }
+.se-pre-con {
+position: fixed;
+left: 0px;
+top: 0px;
+width: 100%;
+height: 100%;
+z-index: 9999;
+background: url(preloader/tech_loader2.gif) 
+
+center no-repeat #fff;
+background-color: black;
+}
+/*	loader ende*/
+
+
+
+/* Make the image fully responsive */
+  .carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+
+
+body{
+	//	background-image: url(images/art-artist-calligraphy-57690.jpg);
+	background-attachment:fixed;
+	background-size:cover;
+	background-repeat: no-repeat;
+	margin: 0px 0px;
+	background-color: black;
+}
+.row1{
+
+
+	
+	height: 630px;
+	width: 100%;
+	
+	
+	
+}
+
+
+.container{
+	padding-top: 30px;
+	text-align: center;
+	text-align: justify;
+	height: 800px;
+	
+}
+
+.carousel  h2{
+	color: aliceblue;
+	padding: 15px 0px;
+	text-align: center;
+	
+}
+
+p{
+	color: aliceblue;`
+	font-size: 18px;
+	padding-top: 40px;
+	
+
+}

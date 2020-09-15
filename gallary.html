@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" media="screen" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css">
+
+	<title>GAlLARY</title>
+
+	<!--  -->
+
+	<style>
+		body{
+			background-color: black;
+		}
+		
+		
+		
+		
+		
+/*Loader	*/
+
+.no-js #loader { display: none;  }
+.js #loader { display: block; position: absolute; left: 100px; top: 0; }
+.se-pre-con {
+position: fixed;
+left: 0px;
+top: 0px;
+width: 100%;
+height: 100%;
+z-index: 9999;
+background: url(preloader/tech_loader2.gif) 
+
+center no-repeat #fff;
+background-color: black;
+}
+/*	loader ende*/
+
+
+	</style>
+
+</head>
+
+
+
+
+
+
+<!--loader starts-->
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"></script>
+
+
+
+<script>
+
+	// Wait for window load
+	$(window).load(function() {
+		// Animate loader off screen
+		$(".se-pre-con").fadeOut("slow");;
+	});
+	</script>
+
+
+
+<body>
+<div class="se-pre-con"></div>
+
+<!--loader ends-->
+
+
+
+	<div class="container">
+
+	</div>
+
+
+
+</body>
+
+</html>
