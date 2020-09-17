@@ -31,7 +31,7 @@
 ---
 
 **CSI SFIT Tech Team 2019 - 2020 :**
-+ Tech Head : [@shivam](https://github.com/immohann)
++ Tech Head : [@shivam]()
 + Joint Tech Head : [@immohann](https://github.com/immohann)
 + Tech Exec : [@jesdin]( https://github.com/jesdin)
 + Tech Exec : [@HarshOza36](https://github.com/HarshOza36)
