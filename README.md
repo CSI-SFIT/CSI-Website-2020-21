@@ -5,7 +5,7 @@
      
 <p align="center">
 <b>Official Website Source Code for Computer Society Of India SFIT
-<br>Mumbai Chapter<b>
+<br>Mumbai Chapter</b>
 </p>
 
 ## Live Preview
