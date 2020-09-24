@@ -37,6 +37,10 @@
 + Tech Exec : [@HarshOza36](https://github.com/HarshOza36)
 + Tech Exec : [@niharikapattabhi](https://github.com/niharikapattabhi)
 + Tech Exec : [@Janhvishah](https://github.com/Janhvishah)
+
+**Update. CSI SFIT Tech Team 2020 - 2021 :**
++ Tech Head : [@Sneh Modi](https://github.com/SnehModi)
+
 <br>
 <p align="center">
   <a href="https://www.csi.sfit.ac.in/">
