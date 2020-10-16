@@ -1,6 +1,6 @@
 # ⚡ CSI SFIT Website 
 
-<a href="https://www.csi.sfit.ac.in/"><img src="https://scontent.fbom3-2.fna.fbcdn.net/v/t1.0-9/s960x960/119707500_2771001579849253_1009356067048322269_o.jpg?_nc_cat=102&_nc_sid=e3f864&_nc_ohc=6DCq8Qiq_FQAX_1GhgT&_nc_ht=scontent.fbom3-2.fna&tp=7&oh=1ab72f642f74b3f5e42fe8c185810a94&oe=5F8874E7" align="center"
+<a href="https://pbs.twimg.com/profile_banners/1306494072694157312/1600330809/1500x500" align="center"
      alt=""></a>
      
 <p align="center">
