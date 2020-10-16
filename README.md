@@ -1,7 +1,10 @@
 # ⚡ CSI SFIT Website 
 
-<a href="https://pbs.twimg.com/profile_banners/1306494072694157312/1600330809/1500x500" align="center"
-     alt="#makeIThappen"></a>
+<a href="" align="center"
+     alt="csi website">
+     <img src="https://pbs.twimg.com/profile_banners/1306494072694157312/1600330809/1500x500"
+         alt="#makeIThappen">
+</a>
      
 <p align="center">
 <b>Official Website Source Code for Computer Society Of India SFIT
