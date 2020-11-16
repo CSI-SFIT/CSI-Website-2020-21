@@ -1,6 +1,6 @@
 # ⚡ CSI SFIT Website 
 
-<a href="" align="center"
+<a href="https://csi-sfit.netlify.com/" align="center"
      alt="csi website">
      <img src="https://pbs.twimg.com/profile_banners/1306494072694157312/1600330809/1500x500"
          alt="#makeIThappen">
