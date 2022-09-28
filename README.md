@@ -1,4 +1,4 @@
-# ⚡ CSI SFIT Website 
+# ⚡ CSI SFIT Website (Deprecated)
 
 <a href="https://csi-sfit.netlify.com/" align="center"
      alt="csi website">
