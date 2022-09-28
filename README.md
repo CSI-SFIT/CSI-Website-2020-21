@@ -1,4 +1,4 @@
-# ⚡ CSI SFIT Website (Deprecated)
+# ⚡ CSI SFIT Website 2020-21 (Deprecated)
 
 <a href="https://csi-sfit.netlify.com/" align="center"
      alt="csi website">
