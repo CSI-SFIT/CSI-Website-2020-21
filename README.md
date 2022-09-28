@@ -2,14 +2,18 @@
 
 <a href="https://csi-sfit.netlify.com/" align="center"
      alt="csi website">
-     <img src="https://pbs.twimg.com/profile_banners/1306494072694157312/1600330809/1500x500"
-         alt="#makeIThappen">
+     <p align="center">
+     <img src="https://raw.githubusercontent.com/CSI-SFIT/Getting-Started-With-Hacktoberfest/main/Images/CSI_Logo.png"
+         alt="#makeIThappen" height="500px">
+         </p>
 </a>
      
 <p align="center">
 <b>Official Website Source Code for Computer Society Of India SFIT
 <br>Mumbai Chapter</b>
 </p>
+
+# This repository is now deprecated. Check out the newer version [here](https://github.com/CSI-SFIT/CSI-Website-2021-new)
 
 ## Live Preview
 
